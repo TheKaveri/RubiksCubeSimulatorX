@@ -1,0 +1,75 @@
+{
+   "left": {
+      "elem10": "Y",
+      "elem21": "R",
+      "elem00": "Y",
+      "elem11": "B",
+      "elem22": "R",
+      "elem20": "R",
+      "elem01": "G",
+      "elem12": "B",
+      "elem02": "G"
+   },
+   "movesLog": [
+      "B2",
+      "D",
+      "f",
+      "L",
+      "r"
+   ],
+   "back": {
+      "elem10": "O",
+      "elem21": "G",
+      "elem00": "O",
+      "elem11": "Y",
+      "elem22": "B",
+      "elem20": "Y",
+      "elem01": "Y",
+      "elem12": "R",
+      "elem02": "R"
+   },
+   "up": {
+      "elem10": "Y",
+      "elem21": "G",
+      "elem00": "B",
+      "elem11": "R",
+      "elem22": "Y",
+      "elem20": "Y",
+      "elem01": "O",
+      "elem12": "Y",
+      "elem02": "G"
+   },
+   "right": {
+      "elem10": "G",
+      "elem21": "O",
+      "elem00": "B",
+      "elem11": "G",
+      "elem22": "R",
+      "elem20": "O",
+      "elem01": "B",
+      "elem12": "W",
+      "elem02": "W"
+   },
+   "front": {
+      "elem10": "R",
+      "elem21": "W",
+      "elem00": "O",
+      "elem11": "W",
+      "elem22": "W",
+      "elem20": "G",
+      "elem01": "W",
+      "elem12": "R",
+      "elem02": "O"
+   },
+   "down": {
+      "elem10": "W",
+      "elem21": "O",
+      "elem00": "W",
+      "elem11": "O",
+      "elem22": "G",
+      "elem20": "W",
+      "elem01": "B",
+      "elem12": "B",
+      "elem02": "B"
+   }
+}

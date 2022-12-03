@@ -1,0 +1,69 @@
+{
+  "left": {
+    "elem10": "B",
+    "elem21": "B",
+    "elem00": "B",
+    "elem11": "B",
+    "elem22": "B",
+    "elem20": "B",
+    "elem01": "B",
+    "elem12": "B",
+    "elem02": "B"
+  },
+  "movesLog": [],
+  "back": {
+    "elem10": "Y",
+    "elem21": "Y",
+    "elem00": "Y",
+    "elem11": "Y",
+    "elem22": "Y",
+    "elem20": "Y",
+    "elem01": "Y",
+    "elem12": "Y",
+    "elem02": "Y"
+  },
+  "up": {
+    "elem10": "R",
+    "elem21": "R",
+    "elem00": "R",
+    "elem11": "R",
+    "elem22": "R",
+    "elem20": "R",
+    "elem01": "R",
+    "elem12": "R",
+    "elem02": "R"
+  },
+  "right": {
+    "elem10": "G",
+    "elem21": "G",
+    "elem00": "G",
+    "elem11": "G",
+    "elem22": "G",
+    "elem20": "G",
+    "elem01": "G",
+    "elem12": "G",
+    "elem02": "G"
+  },
+  "front": {
+    "elem10": "W",
+    "elem21": "W",
+    "elem00": "W",
+    "elem11": "W",
+    "elem22": "W",
+    "elem20": "W",
+    "elem01": "W",
+    "elem12": "W",
+    "elem02": "W"
+  },
+  "down": {
+    "elem10": "O",
+    "elem21": "O",
+    "elem00": "O",
+    "elem11": "O",
+    "elem22": "O",
+    "elem20": "O",
+    "elem01": "O",
+    "elem12": "O",
+    "elem02": "O"
+  }
+}
